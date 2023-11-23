@@ -14,6 +14,10 @@ function App() {
     <p>
         WELCOME TO REACT..
     </p>
+
+     <P>
+      HELLO WORLD!!!
+    </P>
          <h5>
           this is React
          </h5>
