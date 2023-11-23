@@ -11,6 +11,9 @@ function App() {
            I'm trying to learn react for the first time in my damn fucking life!!!!!!!
          </h1>
 
+    <p>
+        WELCOME TO REACT..
+    </p>
          <h5>
           this is React
          </h5>
